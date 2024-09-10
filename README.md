@@ -8,4 +8,5 @@ The following unit operations were developed:
 4) Continuous Crystallizer
 5) Electrostatic Precipitator
 6) Isothermal Batch Reactor
+
 Each folder consists of 3 files: A .pdf file with brief description of the model; A text file with the code of the custom model; A DWSIM flowsheet using the custom model
